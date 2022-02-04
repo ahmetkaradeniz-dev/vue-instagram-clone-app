@@ -1,5 +1,8 @@
 # vue-instagram-clone
 
+Vite ile kurulum Yapıldı
+
+
 ### Kurulum
 ```
 $ git clone https://github.com/ahmetkaradeniz-dev/vue-instagram-clone.git
