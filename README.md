@@ -1,4 +1,4 @@
-# vue-instagram-clone
+# Vue Instagram Clone
 
 Vite ile kurulum Yapıldı
 
